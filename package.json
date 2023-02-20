@@ -9,7 +9,12 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
-    "vue": "^2.6.14"
+    "element-ui": "^2.15.13",
+    "sass-loader": "^13.2.0",
+    "scss": "^0.2.4",
+    "uuid": "^9.0.0",
+    "vue": "^2.6.14",
+    "vue-json-viewer": "^2.2.22"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
@@ -19,6 +24,7 @@
     "@vue/cli-service": "~5.0.0",
     "eslint": "^7.32.0",
     "eslint-plugin-vue": "^8.0.3",
+    "node-sass": "^8.0.0",
     "vue-template-compiler": "^2.6.14"
   },
   "eslintConfig": {
